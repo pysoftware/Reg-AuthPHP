@@ -1,3 +1,3 @@
 # Reg-AuthPHP
-Registration and authorisation PHP
-Using RedBeanPHP DB
+Registration and authorisation PHP.
+Using RedBeanPHP DB.
